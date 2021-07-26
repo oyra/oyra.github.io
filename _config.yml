@@ -22,10 +22,10 @@ color_image: /assets/img/lineart.png                    # A bit transparent for 
 # Features
 # More in the _data folder for share buttons, author and language
 # For layout customization, go to the "_sass > base" folder, and check "_variables.scss"
-katex: true                                             # Enable if using math markup
+katex: false                                             # Enable if using math markup
 mermaid: true                                           # Enable mermaid-js for sequence and diagrams
 google_analytics:                                       # Tracking ID, e.g. "UA-000000-01"
-cookie_consent: false                                   # To respect the usage of cookies
+cookie_consent: true                                   # To respect the usage of cookies
 color_theme: auto                                       # auto, dark or light
 
 # Comments
@@ -41,10 +41,10 @@ paginate: 5
 paginate_path: "/blog/page:num"
 
 # PORTFOLIO
-collections:
-  portfolio:
-    output: true
-    permalink: /:collection/:name
+# collections:
+#   portfolio:
+#     output: true
+#     permalink: /:collection/:name
 
 # BUILD SETTINGS
 sass:
