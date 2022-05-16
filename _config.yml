@@ -3,7 +3,7 @@ baseurl: "" #/Type-on-Strap"
 url: "https://oyra.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
-title: All the greatness and terribleness of the City of London                                    # site's title
+title: Kaya Me                                   # site's title
 description: "Welcome to London"      # used by search engines
 avatar: assets/img/triangle.png                         # Empty for no avatar in navbar
 favicon: assets/favicon.ico                             # Icon displayed in the tab

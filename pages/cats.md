@@ -11,11 +11,13 @@ We've got some awesome kittens here, and they will be looking for a new home soo
 <br/>
 Meet their Mom and Dad
 
+{% include image-gallery.html folder="/cats/parents" %}
+
 <br/>
 
 
 Kittens!
-
+{% include image-gallery.html folder="/cats/all" %}
 
 
 <h1>Uno</h1>
