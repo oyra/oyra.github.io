@@ -20,6 +20,8 @@ Kittens!
 {% include image-gallery.html folder="/cats/all" %}
 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8e7_qMs__TQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <h1>Uno</h1>
 
 This is Uno, the eldest. Largest kitten
