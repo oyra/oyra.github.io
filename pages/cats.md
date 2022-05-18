@@ -22,6 +22,9 @@ Kittens!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8e7_qMs__TQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/In0je7PFpjc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <h1>Uno</h1>
 
 This is Uno, the eldest. Largest kitten
@@ -38,8 +41,6 @@ Will easily fall asleep in your hands... or wherever!
 <br/>
 Dalmatian cat!
 {% include image-gallery.html folder="/cats/Dos" %}
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLxNf1tpsnFaebHKOAAiRwTBfqkxJ8j5qD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jY4_BYA2xUU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
