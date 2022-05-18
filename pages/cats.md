@@ -3,6 +3,7 @@ layout: page
 title: Hello kittens!
 permalink: /cats/
 feature-img: "assets/img/pexels/travel.jpeg"
+hide: true
 # tags: [Cats, Kittens]
 ---
 
