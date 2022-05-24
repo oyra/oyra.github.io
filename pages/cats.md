@@ -38,7 +38,7 @@ This is Uno, the eldest
 
 ![Uno](/assets/img/posts_img/cats/Uno/Uno_sleeping.jpg){:class="img-responsive"}
 ![Uno](/assets/img/posts_img/cats/Uno/Uno_1.jpg){:class="img-responsive"}
-![Uno](/assets/img/posts_img/cats/Uno/Uno_2.jpg){:class="img-responsive"}
+![Uno](/assets/img/posts_img/cats/Uno/Uno_4.jpg){:class="img-responsive"}
 ![Uno](/assets/img/posts_img/cats/Uno/Uno_3.jpg){:class="img-responsive"}
 ![Uno](/assets/img/posts_img/cats/Uno/Uno_cuddles.jpg){:class="img-responsive"}
 
