@@ -12,13 +12,19 @@ We've got some awesome kittens here, and they will be looking for a new home soo
 <br/>
 This is Koosha, their mum
 
-{% include image-gallery.html folder="/cats/parents" %}
+![Koosha](/assets/img/posts_img/cats/parents/Koosha.jpg){:class="img-responsive"}
+
 
 <br/>
 
 
 Kittens!
-{% include image-gallery.html folder="/cats/all" %}
+
+![Dos_and_Quinta](/assets/img/posts_img/cats/all/Dos_and_Quinta.jpg){:class="img-responsive"}
+![Tres_and_Quinta](/assets/img/posts_img/cats/all/Tres_and_Quinta.jpg){:class="img-responsive"}
+![Uno_and_Quattro](/assets/img/posts_img/cats/all/Uno_and_Quattro.jpg){:class="img-responsive"}
+![Uno_and_Quinta](/assets/img/posts_img/cats/all/Uno_and_Quinta.jpg){:class="img-responsive"}
+
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8e7_qMs__TQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -30,7 +36,12 @@ Kittens!
 
 This is Uno, the eldest
 
-{% include image-gallery.html folder="/cats/Uno" %}
+![Uno](/assets/img/posts_img/cats/Uno/Uno_sleeping.jpg){:class="img-responsive"}
+![Uno](/assets/img/posts_img/cats/Uno/Uno_1.jpg){:class="img-responsive"}
+![Uno](/assets/img/posts_img/cats/Uno/Uno_2.jpg){:class="img-responsive"}
+![Uno](/assets/img/posts_img/cats/Uno/Uno_3.jpg){:class="img-responsive"}
+![Uno](/assets/img/posts_img/cats/Uno/Uno_cuddles.jpg){:class="img-responsive"}
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qu2gYWwi3EQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -40,9 +51,17 @@ Will easily fall asleep in your hands... or wherever!
 
 
 <h1>Dos</h1>
-<br/>
+
 Dalmatian cat with a moustache!
-{% include image-gallery.html folder="/cats/Dos" %}
+
+![Dos](/assets/img/posts_img/cats/Dos/1.jpg){:class="img-responsive"}
+![Dos](/assets/img/posts_img/cats/Dos/2.jpg){:class="img-responsive"}
+![Dos](/assets/img/posts_img/cats/Dos/4.jpg){:class="img-responsive"}
+![Dos](/assets/img/posts_img/cats/Dos/5.jpg){:class="img-responsive"}
+![Dos](/assets/img/posts_img/cats/Dos/6.jpg){:class="img-responsive"}
+![Dos](/assets/img/posts_img/cats/Dos/7.jpg){:class="img-responsive"}
+![Dos](/assets/img/posts_img/cats/Dos/8.jpg){:class="img-responsive"}
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jY4_BYA2xUU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -62,7 +81,13 @@ She is the only kitten who is very vocal about things: squeaking about what she 
 
 
 <h1>Quattro</h1>
-{% include image-gallery.html folder="/cats/Quattro" %}
+
+![Quattro](/assets/img/posts_img/cats/Quattro/1.jpg){:class="img-responsive"}
+![Quattro](/assets/img/posts_img/cats/Quattro/2.jpg){:class="img-responsive"}
+![Quattro](/assets/img/posts_img/cats/Quattro/3.jpg){:class="img-responsive"}
+![Quattro](/assets/img/posts_img/cats/Quattro/4.jpg){:class="img-responsive"}
+![Quattro](/assets/img/posts_img/cats/Quattro/5.jpg){:class="img-responsive"}
+![Quattro](/assets/img/posts_img/cats/Quattro/6.jpg){:class="img-responsive"}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MTofxK-GZaY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 A sweet sweet boy
@@ -73,7 +98,8 @@ Features: emits cuteness constantly.
 He started making funny sounds when playing recently. Do you remember in "Jurassic park" there was a dino making urrrr sounds and spitting acid afterwards? That's the sound. But without acid :)
 
 <h1>Quinta</h1>
-{% include image-gallery.html folder="/cats/Quinta" %}
+
+![Quinta](/assets/img/posts_img/cats/Quinta/1.jpg){:class="img-responsive"}
 A boy
 <br/>
 Explorer! 

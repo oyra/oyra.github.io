@@ -2,6 +2,9 @@
 baseurl: "" #/Type-on-Strap"
 url: "https://oyra.github.io"
 
+include:
+  - "/assets/img/posts_img/"
+
 # THEME-SPECIFIC CONFIGURATION
 title: Kaya Me                                   # site's title
 description: "Welcome to London"      # used by search engines
